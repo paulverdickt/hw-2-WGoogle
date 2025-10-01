@@ -1,0 +1,1 @@
+I can't find the exact prompt because I do not remember when I asked Gemini, but I asked something along the lines of "why is the LIGO Binder returning the Attribute Error?" The response it gave asked me to identify the versions used and other details that did not help me solve the problem. 
